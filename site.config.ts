@@ -1,7 +1,7 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://valaxy.site/',
+  url: 'https://blog.wuyuan.dev/',
   lang: 'zh-CN',
   title: '孙悟元的小站',
   author: {
